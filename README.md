@@ -1,0 +1,1 @@
+All steps and code is part of the Landing Page assignment in TheOdinProject.
